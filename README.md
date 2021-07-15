@@ -4,7 +4,7 @@
 
 ## Topics
 + Google Custom Search API
-+ Redux
++ Context API
 + Material UI
 + React Router
 + Custom Hook
