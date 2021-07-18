@@ -18,3 +18,4 @@ A React app which is Google Web Clone that you can simply search whatever you wa
 ## Author
 Mert Çankaya
 
+
