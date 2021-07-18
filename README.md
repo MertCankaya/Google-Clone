@@ -1,8 +1,8 @@
 # Google Clone with ReactJS
-A web app that imitate the desktop web version of google, you can search whatever you want.
+A React app which is Google Web Clone that you can simply search whatever you want.
 
 ## Google Clone Demo Link
-<a href="https://clone-fb34b.web.app/">click me</a>
+<a href="https://clone-fb34b.web.app/">click me</a> for demo.
 
 
 ## Topics
