@@ -2,7 +2,7 @@
 A React app which is Google Web Clone that you can simply search whatever you want.
 
 ## Google Clone Demo Link
-<a href="https://clone-fb34b.web.app/">click me</a> for demo.
+<a href="https://clone-9a57f.web.app/">click me</a> for demo.
 
 
 ## Topics
